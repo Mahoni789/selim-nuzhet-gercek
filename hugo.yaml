@@ -1,7 +1,7 @@
 # cSpell:ignore docsy github goldmark linkify netlify hugo
 
-baseURL: https://cncf-docsy-starter.netlify.app/ # CUSTOMIZE
-title: Docsy Starter # CUSTOMIZE
+baseURL: https://selim-nuzhet-gercek.vercel.app/ # CUSTOMIZE
+title: Selim Nüzhet Gerçek # CUSTOMIZE
 disableKinds: [taxonomy]
 theme: [docsy]
 themesDir: node_modules
@@ -42,7 +42,7 @@ languages:
     languageName: English
     languageCode: en-US
     params:
-      description: Docsy starter # CUSTOMIZE
+      description: Selim Nüzhet Gerçek # CUSTOMIZE
 
 #
 # Markup and imaging
