@@ -1,6 +1,9 @@
+---
+title: Gazanfer Paşa’nın Bir İkincisi
+---
+
 # Gazanfer Paşa’nın Bir İkincisi
-## 1
-## Yeşil Mürekkepli Mektup
+## 1 Yeşil Mürekkepli Mektup
 Gazanfer Paşa odasında çalışıyordu. Henüz bitirdiği mazbatanın sonuna mavi kurşun kalem ile bazı fikirler kaydettikten sonra iskemlesinden kalkarak oturmaktan uğuşan bacaklarına hareket vermek için bu geniş odada biraz gezindi. Sisli bir kanunuevvel havasının hazinleştirdiği Boğaziçi’nin manzarası onu pencere önünde çok tutmadı. Tekrar yazı masasına avdet etti.
 Gazanfer Paşa gerek namına gelen mektupları, gerek bendeganının jurnallerini bizzat okumak adetiydi. O gün masasının üstü yine dolu idi. Zarfları birer birer açıp göz gezdirmeğe başladığı sırada kapı açıldı ve başağa:
 “Paşa hazretleri, Doktor Bedri Paşa sizi görmek istiyor.” dedi. Gazanfer Paşa, emir vermeğe alışık bir sesle cevap verdi:
@@ -72,8 +75,7 @@ Doktor ayağa kalktı:
 “Güle güle…”
 Gayet samimiyetle birbirlerinin ellerini sıktılar. Onu kapıya kadar uğurlamadan (*teşyîden*) avdette Gazanfer Paşa yeşil mürekkepli mektubu cebine koydu ve diğer kâğıtlara acele ile göz gezdirmeğe başladı. Saraya gitmek saati yaklaştığı halde daha yapacak birçok şeyler vardı.
 
-## 2
-## Mülakat
+## 2 Mülakat
 Hafif hafif çiseleyen yağmur dinmişti. Gazanfer Paşa arabasıyla Eminönü’ne geldiği zaman yatsı ezanı okunuyordu. Babıali yokuşu yerine arabasını bilerek (*bililtizâm*) Ayasofya’dan dolaştırdı ve Sultan Mahmut türbesine gelmeden pencereye vurdu. İndi ve yürümeğe başladı. Sokaktan bir an evvel evine gitmek için adımlarını sıklaştıran birkaç kişiden başka kimse yoktu. Türbenin köşesine geldiği zaman, tam döneceği sırada mektubun tarif ettiği gibi yakası kalkık, gümüşî paltolu ve boynu atkılı bir adamın sokağın içinden bu taraf doğru geldiğini gördü. Yüzünü göstermemek için atkısını gözlerine kadar çıkaran bu adam gözlerine de sarı bir gözlük takmıştı. Paşa onu görür görmez kendisini buraya getiren merak birdenbire zail olduğu için âdeta hiddetlendi ve kendi kendine, “Bedri Paşa’nın hakkı var. Yaptığım bir budalalık. Kendimi yok yere gülünç ediyorum,” dedi. Adam da tam bu esnada yolu katedip önüne gelmişti. Yüzünün şeklini görmeğe çalıştı. Muvaffak olamadığından hiddeti arttı (*tezâyüt etti*) ve gazaplı bir sesle:
 “Mektupları yazan sizsiniz değil mi?” dedi. “Meramızın nedir, ne istiyorsunuz?”
 Adam bu terslikten meyus olmadı. Mülayim bir sesle:
@@ -156,8 +158,7 @@ Gazanfer Paşa gitmek üzere kalktı ve:
 Tam üç gün sonra, akşam eve avdetinde namına gelmiş bir mektup buldu. Kalbi son derece çarparak açtığı zarfın içindeki kâğıda, mavi kurşun kalemi ile yazılmış bu bir kelimeyi okudu: “Kabul”.
 Sevincinden vücudunda bir titreme (*râşe*) hasıl oldu; kan yüzüne çıktı. Adeta dünyaya yeni gelmiş gibi idi. Odada asılı duran aynaya yaklaştı. Şimdi ayna ona, Ahmet Şevki Efendi’ye, Gazanfer Paşa hazretlerinin timsalini yansıtıyordu (*in’ikâs ettiriyordu*). Oturdu, yerinde duramadı; kalktı, gezindi; olmadı…
 
-## 3
-## İptida Bir Tecrübe
+## 3 İptida Bir Tecrübe
 Ahmet Şevki Efendi, Gazanfer Paşa’yı bir iki defa daha görmüş ve her hususta mutabık kaldıkları için bir haftadan beri tutmağı beraber kararlaştırdıkları Nişantaşı’ndaki bu iki [katlı] eve taşınmıştı.#7
 Ev yine Gazanfer Paşa’nın delaletiyle güzelce tefriş oldu ve bu gece ilk defa olarak Gazanfer Paşa ve Bedri Paşa, Ahmet Şevki Efendi’ye misafir olmuşlar ve evin ikinci katında, salon makamına kullanılmak için daha itinayla döşenmiş bir odada oturuyorlardı. 
 
@@ -208,8 +209,7 @@ Bir müddet sonra Gazanfer Paşa:
 “Ben bu sayede bir parça rahat yüzü görmüş, mevkimi kaybetmeden yaşamağa, yeniden dünyaya gelmiş gibi yaşamağa başlamış olurum.”
 Evet, hakikatte gerek Gazanfer Paşa gerek Ahmet Şevki Efendi için her suretle yeni bir hayat başlamış oluyordu. Bunun her iki tarafa temin için lazım gelen her şey düşünülmüştü. Yalnız bir şey unutulmuştu. Yalnız muhtemel (*melhuz*) küçük bir tehlike Bedri Paşa’nın bile hatırından geçmemişti.
 
-## 4
-## Gazanfer Paşa - Ahmet Şevki Efendi
+## 4 Gazanfer Paşa - Ahmet Şevki Efendi
 Ahmet Şevki Efendi, Gazanfer Paşa rolünü oynamakta devam ediyor ve kimse işin farkına varmıyordu. Kendisiyle en çok temasta bulunan zevat bile bu şahıs değişikliğini anlamak şöyle dursun şüphe bile etmiyorlardı. Yegane nazar-ı dikkat celp eden şey Gazanfer Paşa’nın daha çok ve daha muntazam çalıştığı oldu. Gazanfer Paşa sarayda birçok defalar övgü (*sitayiş*) işitti. Bir nişan aldı, yeniden ihsanlara gark oldu. Herkes ise onda gittikçe artan faaliyetin hayranı oluyordu.#9
 Ahmet Şevki Efendi, Gazanfer Paşa’nın her yerine geçtiğinde gayet soğukkanlılıkla hareket ediyor, tedbiri hiçbir dakika elden bırakmıyordu. Sakin ve sakit köşesinde oturur iken birdenbire mevki-i içtimaiyisi bu kadar muhtelif bir adamın yerine geçebilmesi ve orada sanki hayatta daima aynı mevkii işgal etmiş gibi hareket edebilmesi hakikaten şayan-ı hayret idi. Ahmet Şevki Efendi hiçbir saniye boş bulunmadı ve Gazanfer Paşa ne olabilir ve ne yapabilir ise o oldu ve onu yaptı. Hilkat ona bu müşâbeheti vermekle iktifa etmemiş, aynı zamanda ondan tamamıyla istifade edebilmesi için onun tatbikine lazım gelen bir çeşit (*nev’*) dehayı da ona bahşeylemişti. Esasen kim ne derse desin bu öyle akıllara durgunluk veren (*muhayyirü’l-ukul*), öyle şüphe bile edilemez bir şey idi ki yalnız bunun için bile her türlü şüpheden vareste kalabilirdi.
 Ahmet Şevki Efendi iptidaları gayet kısa fırsatlarda Gazanfer Paşa’nın yerine geçmişti. Bu suretle mevkiini tekrar işgal eden Gazanfer Paşa onun vazifesini pek mükemmelen icra ettiğini bizzat müşahede edebilmişti.
@@ -230,8 +230,7 @@ Bu mart gecesinin yıldızlı seması altında yavaş yavaş yürümeğe başlad
 Yolda Bedri Paşa’yı özledi. Gideli üç ayı tecavüz ettiği için avdeti yaklaşıyor demekti… Sonra hatırladı ki Ahmet Şevki Efendi’yi de takriben bu müddetten beri kendi yerine kullanmağa başlamıştı. Kendinin bu sayede bulduğu sükun ve ettiği istirahate mukabil Ahmet Şevki Efendi de Gazanfer Paşa rolünü oynamaktan mütevellit gururun kendisine bahşettiği anlatılmaz bir çeşit (*nev’*) saadetle vakit geçiriyordu (*imrâr-ı vakit eyliyordu*).
 Her iki cihet de aldıkları bu karardan ve mütekabilen elde edilen neticeden son derece memnun idiler.
 
-## 5
-## Meliha
+## 5 Meliha
 Saraylı Hanım ilkbaharın güzelliğinden istifade etmesi için Gazanfer Paşa’yı pek çok ısrarla Kanlıca’daki yalısına davet ediyordu. Halbuki Gazanfer Paşa, kendisinin ne kadar temizliğe meraklı, titiz bir kadın olduğunu pek iyi bildiğinden ve orada bir saat bile geçirmekten bunaldığından bunu kabul etmek istemiyordu fakat taşralı amcası ile bu halası yegane akrabası idiler. Bahusus Saraylı Hanımın hatırından çıkmak doğru bir hareket değildi. Onun için bayram tebriğine gönderdiği gibi Ahmet Şevki Efendi’yi bir iki gece için Kanlıca’ya göndermeğe karar verdi. Ahmet Şevki Efendi her gün kendisine yüklenen (*tahmil edilen*) görevleri (*vezaifi*), ki gelen mektupları ve jurnalleri açıp okumak da şimdi bu adete dahil idi, ifa maksadıyla (*zımnında*) birkaç saat için Nişantaşı’na gelecek fakat üç gecesini Kanlıca’da geçirecekti. Bu kararlaştırıldı (*takarrür etti*).
 Misafir ağırlamakta bir misli daha olmayan Saraylı Hanım, Gazanfer Paşa’yı memnun etmek emeliye birçok çarelere tevessül etti. Evin en güzel odası ona hazırlandı. Yemeklerin son derece iyi olması için aşçıya birçok tembihlerde bulunuldu. Kendinin artık bir ihtiyar kadın makamına geçtiğini bildiği için eğlendirir ümidiyle sazı sözü ile meşhur bir hanımı davet etti. Halayıklardan biri pek güzel ut çalıyordu. Bu suretle hafif tertip bir alem yapmak da kabil olacaktı… Daha birçok şeyler hatta Meliha hanımı daveti bile düşündü.
 Saraylı Hanım içinden Gazanfer Paşa’yı evlendirmeğe karar vermişti. Birçok genç kızları gözden geçirdikten sonra Meliha’yı, dul bir kadın olmasına rağmen, Paşa’ya daha münasip buldu. Gerek yaşları (*sinleri*) gerek mevkileri ve gerek Paşa’nın haşin bildiği tabiatı itibarıyla Meliha herhalde bir genç kızdan daha ziyade talebe (*matlûbe*) muvafık idi. Bunu bittabi Gazanfer Paşa’ya söylemeğe cesaret edemezdi fakat vaktiyle Gazanfer Paşa’nın Meliha’yı biraz sevdiğini pek iyi bildiği için şimdi onu böyle serbest görmekle eski hatıraların tazeleneceğinden ümitvar oluyor ve bundan her ikisi için hayırlı bir netice çıkabileceğini farz ediyordu. Korktuğu bir şey vardı; o da Gazanfer Paşa’nın şimdiye kadar birçok defalar yaptığı gibi son zamanda bu davete icabet etmemesi idi. Meliha ile uzun uzun bu ihtimalden bahsettiler. Acaba Gazanfer Paşa sözünde duracak mı idi? Acaba başından taşan işleri ona, kendisini Kanlıca’da bekleyen halasına davetli olduğunu unutturacak mı idi? Saraylı Hanımın kalbinden bu şüphe zail olmuyordu. Şimdiye kadar kaç defa Gazanfer Paşa’yı böyle beklemiş ve o da gelmemişti.
@@ -276,8 +275,7 @@ Müstesna olarak, gayet düşüncesi vardı. Gayet asabi ve hiddetli olduğunu h
 Filhakika bunu temin eden başlıca şey tabiatın ona bahşettiği müşâbehetti… Fakat Gazanfer Paşa’nın şahsiyeti yalnız şekl-i haricisinde mi idi?
 Bir sigara yaktı. Bir başkasının kendisini bu kadar muvaffakiyetle taklit etmesi onu kalben rencide etmişti. Şan ve şöhretin, şeref (*kadr*) ve itibarın ne kadar zevahiri şeyler olduğunu düşündü ve bir mahzuniyet hissetti.
 
-## 6
-## Aşk
+## 6 Aşk
 Ahmet Şevki Efendi üstüne başına son derece itina etmeğe başlamıştı. Bu sabah da aynanın karşısında bir saatten ziyade vakit geçirdi. Farz ediyordu ki saçın daha muntazam taranmış olması, boyun bağının daha dikkatle bağlanmış olması bir kadının nazar-ı dikkatinden kaçmaz ve hoşuna gider. Eğer Gazanfer Paşa bunu duymuş veyahut beyhude bu kadar vaktin zıyâ edildiğini görmüş olsa idi adeta hiddet ederdi. Ahmet Şevki Efendi de bunu pek iyi bilmekle beraber bu hiddet karşısında bulunsa ehemmiyet vermeyeceğini de pek iyi hissediyordu. Zira o bunları Meliha için yapıyordu ve hiçbir kuvvet onu bundan men edemezdi.
 Bu akşam en az (*lâakal*) bir ay kalmak üzere Kanlıca’ya gitmesi Gazanfer Paşa tarafından kararlaştırılmıştı. Aralarında kararlaştırılmıştı (*takarrür etmişti*) ki bu müddet zarfında, saray müstesna, mütemadiyen Gazanfer Paşa olarak kalacaktı. Her gün Nişantaşı’na, konağa inecek; orada mektupları, jurnalleri okuyacak ve yapabileceği şeyleri yapacaktı. Onun konakta kaldığı müddet zarfında Gazanfer Paşa bizzat saraya gidecekti. Avdetinde ise Ahmet Şevki Efendi tekrar Gazanfer Paşa olarak Kanlıca’ya avdet edecekti. Eğer Kanlıca’da iken saraydan istenildiği taktirde, Gazanfer Paşa’nın konakta bulunmadığı bir saatte ise, o saatleri de aralarında kararlaştırdılar (*takarrür ettirdiler*); evde olmadığı söylenecek, eğer Gazanfer Paşa’yı bulmak ihtimali varsa evde olduğu söylenecek fakat Ahmet Şevki Efendi huzura çıkmak için giyinmek bahanesiyle doğru konağa gidecekti. Bu suretle Gazanfer Paşa da daima kendisine sakladığı bu vazifenin bizzat ifasına acele (*şitab*) edecekti. Kendisi bittecrübe çağrılmak ihtimali olduğu zamanları kolaylıkla tahmin ettiğinden o sıralarda bir ay ihtiyat konakta kalacak veyahut pek uzaklara gitmeyecekti. Bu da haftada ancak bir veya iki defa vaki olabilirdi. Zira bu fırsatlar nöbetçileri umumiyetle yeni olan günlerde zuhur edebilirdi. Onun için de bu günleri öğrenmek pek kolay idi.
 Ahmet Şevki Efendi işini mümkün olduğu kadar çabuk yaptıktan ve Gazanfer Paşa’dan bir emri olup olmadığını öğrendikten sonra konaktan çıktı ve Kanlıca’ya gitti.
@@ -344,8 +342,7 @@ Artık biraz sükun bulmuş konuşuyorlardı. Meliha’nın Saraylı Hanıma hik
 Meliha ile sevişiyorlardı fakat Meliha kimi seviyordu? Hakikati öğrendiği zaman da kendisini sevecek miydi?
 Bu vaziyet kalbinde Gazanfer Paşa’ya karşı büyük bir kin uyandırdı.
 
-## 7
-## Nişantaşı Cinayeti
+## 7 Nişantaşı Cinayeti
 
 Bu sabah Gazanfer Paşa makamından pek çok evvel yazı odasına geldi. Hizmetçi daha odanın tozlarını almakla meşgul idi. Geç kaldım zannıyla mazerete (*beyan-ı îtiraza*) başladı. Gazanfer Paşa bir el işaretiyle onu susturdu. Masasının üstündeki küçük saat vaktin hakikaten çok erken olduğunu gösteriyordu. Masanın diğer köşesi de, bundan altı yedi ay evvel Bedri Paşa ile birlikte yeşil mürekkepli mektubu bulduğu gün gibi, birçok kağıtlar ve zarflar ile dolu idi. Bugünkü gazeteleri göremeyince işini bitirip çıkmak üzere olan hizmetçiye:
 “Gazeteler?” dedi. Hizmetçi koymuş olduğu küçük bir masa üzerinden onları alarak getirdi, Paşa’ya verdi. Gazanfer Paşa her zamankinden daha haşin ve daha amir bir sesle:
@@ -377,8 +374,7 @@ Bu sözler Gazanfer Paşa’yı kendine gerirmişti. Yine âmirâne sesini takı
 
 Nişantaşı cinayeti beş gün arka arkaya, gazetelerin yazacak şey bulamadıkları sütunlarını uzun uzun işgal etti. Ahmet Şevki Efendi’nin hayatına kastetmesinin esbabı ne olabilirdi? Bu hususta birçok faraziyeler yürütüldü, dedikodular oldu. İstanbul’un bu cihetinin açık kırmızı feslilerinden korkmayanlar vakanın cereyan ettiği evi hiç olmazsa hariçten görmüş olmak için Mahmudiye sokağına kadar geldiler. Bu herkese birkaç günlük bir zemin-i muhavere teşkil etti fakat arkası gelmedi. Yeni bir şey öğrenmek kabil olmuyordu. Eski malum olan şeylerden artık herkes bıkmıştı. Cesedi muayene eden doktorun raporu da bir cinayet eseri olduğunu ispata dayanak olan (*medar*) hiçbir şey bulunamadığını söylüyordu. Beyoğlu’nda o günlerde soyulan bir dükkan meselesi bu vakayı unutturdu. Esasen hafiyenin biri, bir jurnal vererek, saraya oldukça yakın olan bir mevkide bir cinayet olduğunu yazmanın pek münasip olmadığını, Ahmet Şevki Efendi’nin ölümünün tarzını söylemenin de pek uygunsuz (*nâbecâ*) olduğunu beyan etmesi üzerine artık gazeteler bu meseleye dair kelime bile neşretmediler. Koşarak kaçan şahsın şimdiye kadar olduğu gibi şimdiden sonra da meydana çıkmayacağı bedihi idi. Velhasıl mesele kapandı gitti.
 
-## 8
-## Kim?
+## 8 Kim?
 Doktor Bedri Paşa vakayı seyahatinden avdetinde yolda öğrendi. Gayet sakin olan tabiatına ve muhakeme ile iş görmek adetine rağmen telaşa düştü. Kalbinde izah olunamaz bir heyecan tevellüd etmişti. Öyle bir heyecan ki iptidaları vaka hakkında elde ettiği tafsilatın azlığı nisbetinde çok idi. Sonraları tafsilat aldığı nispette azalacağı yerde yine çoğaldı. Doktor Bedri Paşa şaşırmak ne kadar kabil ise o kadar şaşırdı. Bir an evvel hakikate vakıf olmak istediği için yol uzun görünmeğe başladı. Meraktan İstanbul’a bir türlü vasıl olunamayacak zannediyordu. Kendi işlerini, her şeyini unutmuştu. Yalnız Gazanfer Paşa’yı düşünüyor, bu canciğer ahbabının şimdi ne vaziyette olduğunu bir an evvel öğrenmek istiyordu. Bahusus böyle nazik bir meselede ona yardım etmezse ne zaman edebilecekti, ne zaman müstesna olarak o da bir defa Gazanfer Paşa’nın işine yarayacaktı. Ahmet Şevki Efendi ile olan maceraya yegane vakıf şahıs olmak itibarıyla bu sıralarda muhakkak orada olmalı idi.
 Bedri Paşa’nın bildikleri hep gazetelerde okuduklarından ibaretti fakat bunlar onu mutmain etmiyordu. Düşünüyor, taşınıyor, zihnine gelmiş (*varit*) olan fikirleri uzun uzun hâdde-i tetkikten geçiriyor, gerek halihazır için gerek âti için bunun sebebiyet verebileceği ahvali araştırıyordu. Tahkikatın hiçbir netice vermediğini öğrendiği ve Gazanfer Paşa-Ahmet Şevki Efendi meselesinin meydana çıkmadığını gördüğü zaman yüreğine biraz su serpildi.
 İstanbul’a gelir gelmez eşyalarını eve bırakarak Gazanfer Paşa’ya koşmağa niyet etmişti. Evde Gazanfer Paşa’nın birkaç satırlık mektubunu buldu: “Azizim, seni ne kadar sabırsızlıkla beklediğimi pek iyi tahmin edersin. Gelir gelmez acele bana gel; evde yoksam bile nerede olduğumu öğrenirsin.” Mektubun tarz-ı tahriri Bedri Paşa’nın bir tuhafına gitti. Bu satırlar, onu yazanın gayet asabi olduğunu gösteriyordu. Halbuki Gazanfer Paşa’nın belki en şayan-ı hayret ciheti her zamanki soğukkanlılığı idi. Kapıda bekleyen arabaya atladı. Doğru konağa gitti ve Gazanfer Paşa’yı çıkmak üzere buldu.
@@ -479,8 +475,7 @@ O zaman Bedri Paşa hızlı söylemekten korkar gibi kesin bir sesle:
 “Elin kanlıysa,” dedi, “sıkmayacağım; beni affet.”
 Bedri Paşa son sözünü kapı önünde söylemişti. Hemen dışarı çıktı. Yolda başını uzaklaşmakta olduğu konağa çevirmemek için kendini zorladı (*cebrinefs etti*) fakat evde bıraktığı adamın zihninde çözülmez bir düğüm (*ukde*) gibi karışık bir şekil alan siması hayalinde canlandı. Bu kimin temsili idi? Gazanfer Paşa’nın mı, Ahmet Şevki Efendi’nin mi?
 
-## 9
-## Şehadet
+## 9 Şehadet
 Gazanfer Paşa yalnız odasında çalışıyordu. Kapı açıldı ve uşak:
 “Paşa hazretleri, doktor Bedri Paşa geldi,” dedi. Gazanfer Paşa da:
 “Peki, buyursunlar,” cevabını verdikten sonra misafiri karşılamak için (*berây-ı istikbal*) masasından kalkarak kapıya doğru ilerlemeğe başladı. Bedri Paşa ile son görüştükleri günden beri bir hafta geçmişti ve bu müddet zarfında tekrar görüşmemişler idi. Bedri Paşa odaya girer girmez Gazanfer Paşa’ya dikkatle baktı ve daha zayıf ve benzinin daha soluk olduğunu gördü. Gözlerinin kızartısından ateşler içinde olduğu tahmin olunabilirdi. Gazanfer Paşa da Bedri Paşa’yı dikkatle gözden geçirmekten hâlî kalmadığı için birdenbire:
