@@ -1,6 +1,6 @@
 ---
 title: Bütün Eserleri
-linkTitle: Docs
+linkTitle: Eserleri
 menu: { main: { weight: 20 } }
 ---
 
