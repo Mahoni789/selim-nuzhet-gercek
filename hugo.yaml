@@ -7,8 +7,6 @@ theme: [docsy]
 themesDir: node_modules
 enableGitInfo: true
 
-params:
-  gcs_engine_id: 90070cecdf3c9462c
 # Outputs and Netlify _redirects file support
 #
 
@@ -76,7 +74,7 @@ params:
     from_year: 2024
     to_year: present
   github_repo: https://github.com/chalin/docsy-starter
-  gcs_engine_id: b11e9c44d8d004464 # CUSTOMIZE - this is the starter ID
+  gcs_engine_id: 90070cecdf3c9462c # CUSTOMIZE - this is the starter ID
   privacy_policy: https://www.linuxfoundation.org/legal/privacy-policy
   ui:
     showLightDarkModeMenu: true
