@@ -74,7 +74,8 @@ params:
     from_year: 2024
     to_year: present
   github_repo: https://github.com/chalin/docsy-starter
-  gcs_engine_id: 90070cecdf3c9462c # CUSTOMIZE - this is the starter ID
+  offlineSearch: true
+  offlineSearchSummaryLength: 200
   privacy_policy: https://www.linuxfoundation.org/legal/privacy-policy
   ui:
     showLightDarkModeMenu: true
