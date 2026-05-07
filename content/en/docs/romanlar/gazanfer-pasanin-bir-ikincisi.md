@@ -1,9 +1,8 @@
 ---
 title: Gazanfer Paşa’nın Bir İkincisi
+tags: [Tagging, Structuring Content, Labelling]
+categories: [Taxonomies]
 ---
-
-
-# Gazanfer Paşa’nın Bir İkincisi
 
 ## 1 Yeşil Mürekkepli Mektup
 
