@@ -2,6 +2,8 @@
 title: Examples
 weight: 500
 description: Examples of Docsy projects
+tags: [Tagging]
+categories: [Taxonomies]
 ---
 
 One of the best ways to see what Docsy can do, and learn how to configure a site
